@@ -1,5 +1,5 @@
 # StudyOf.net
-2016-09-14 start  to Study C#
+2016-07-14 start  to Study C#
 
 # 写在前面
 
