@@ -1,4 +1,4 @@
-# StudyOf.net
+# StudyOf .Net
 2016-09-14 start  to Study C#
 
 # 写在前面
