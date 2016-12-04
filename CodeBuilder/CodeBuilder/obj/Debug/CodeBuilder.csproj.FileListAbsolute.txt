@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2008\Projects\CodeBuilder\CodeBuilder\bin\Debug\CodeBuilder.exe
+D:\Documents\Visual Studio 2008\Projects\CodeBuilder\CodeBuilder\bin\Debug\CodeBuilder.pdb
+D:\Documents\Visual Studio 2008\Projects\CodeBuilder\CodeBuilder\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.ChooseForm.resources
+D:\Documents\Visual Studio 2008\Projects\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.PrintReport.resources
+D:\Documents\Visual Studio 2008\Projects\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.exe.licenses
+D:\Documents\Visual Studio 2008\Projects\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.exe
+D:\Documents\Visual Studio 2008\Projects\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.pdb
+D:\Documents\Visual Studio 2008\Projects\条形码二维码生成器\2016年11月22日003306另一个修正版本\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.exe
+D:\Documents\Visual Studio 2008\Projects\条形码二维码生成器\2016年11月22日003306另一个修正版本\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.pdb
