@@ -1,0 +1,31 @@
+C:\Users\Eric\Documents\Visual Studio 2008\Projects\Algorithm\Main\bin\Debug\Main.exe
+C:\Users\Eric\Documents\Visual Studio 2008\Projects\Algorithm\Main\bin\Debug\Main.pdb
+C:\Users\Eric\Documents\Visual Studio 2008\Projects\Algorithm\Main\bin\Debug\AlgorithmUI.dll
+C:\Users\Eric\Documents\Visual Studio 2008\Projects\Algorithm\Main\bin\Debug\Algorithm.dll
+C:\Users\Eric\Documents\Visual Studio 2008\Projects\Algorithm\Main\bin\Debug\Algorithm.pdb
+C:\Users\Eric\Documents\Visual Studio 2008\Projects\Algorithm\Main\bin\Debug\AlgorithmUI.pdb
+C:\Users\Eric\Documents\Visual Studio 2008\Projects\Algorithm\Main\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Documents\Visual Studio 2008\Projects\Algorithm\Main\obj\Debug\Main.exe
+C:\Users\Eric\Documents\Visual Studio 2008\Projects\Algorithm\Main\obj\Debug\Main.pdb
+H:\课件和文档\研一\上课课件\算法\算法课程演示Demo\算法Demo(控制台)\Algorithm\Main\bin\Debug\Main.exe
+H:\课件和文档\研一\上课课件\算法\算法课程演示Demo\算法Demo(控制台)\Algorithm\Main\bin\Debug\Main.pdb
+H:\课件和文档\研一\上课课件\算法\算法课程演示Demo\算法Demo(控制台)\Algorithm\Main\bin\Debug\AlgorithmUI.dll
+H:\课件和文档\研一\上课课件\算法\算法课程演示Demo\算法Demo(控制台)\Algorithm\Main\bin\Debug\Algorithm.dll
+H:\课件和文档\研一\上课课件\算法\算法课程演示Demo\算法Demo(控制台)\Algorithm\Main\bin\Debug\Algorithm.pdb
+H:\课件和文档\研一\上课课件\算法\算法课程演示Demo\算法Demo(控制台)\Algorithm\Main\bin\Debug\AlgorithmUI.pdb
+H:\课件和文档\研一\上课课件\算法\算法课程演示Demo\算法Demo(控制台)\Algorithm\Main\obj\Debug\ResolveAssemblyReference.cache
+H:\课件和文档\研一\上课课件\算法\算法课程演示Demo\算法Demo(控制台)\Algorithm\Main\obj\Debug\Main.exe
+H:\课件和文档\研一\上课课件\算法\算法课程演示Demo\算法Demo(控制台)\Algorithm\Main\obj\Debug\Main.pdb
+K:\Algorithm\Main\obj\Debug\Main.exe
+K:\Algorithm\Main\obj\Debug\Main.pdb
+K:\算法\Algorithm\Main\obj\Debug\Main.exe
+K:\算法\Algorithm\Main\obj\Debug\Main.pdb
+K:\算法\Algorithm\Main\bin\Debug\Main.exe
+K:\算法\Algorithm\Main\bin\Debug\Main.pdb
+K:\算法\Algorithm\Main\bin\Debug\AlgorithmUI.dll
+K:\算法\Algorithm\Main\bin\Debug\Algorithm.dll
+K:\算法\Algorithm\Main\bin\Debug\Algorithm.pdb
+K:\算法\Algorithm\Main\bin\Debug\AlgorithmUI.pdb
+K:\算法\Algorithm\Main\obj\Debug\ResolveAssemblyReference.cache
+H:\课件和文档\研一\上课课件\算法\算法程序的演示版本\Algorithm\Main\obj\Debug\Main.exe
+H:\课件和文档\研一\上课课件\算法\算法程序的演示版本\Algorithm\Main\obj\Debug\Main.pdb
